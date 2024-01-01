@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="hyeonsuns123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pranne1224@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="hyeonsuns123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyeonsuns123@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hyeonsun-jung-551ba425b/" target="_blank"><img src="https://img.shields.io/badge/DahyeLee-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </div>
 
