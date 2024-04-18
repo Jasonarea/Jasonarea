@@ -9,8 +9,6 @@
 Hi there 👋🙂
 <br>
 My goal is to be a good software engineer
-<br>
-I am currently learning Java Spring Framework
 </p>
 <h4 align="center"> Hobbies: 🎹 🎧 🏋🏻  <br> Languages: 🇰🇷 🇺🇸 🇯🇵</h4>
 
