@@ -1,28 +1,85 @@
-<div align="center">
-  <a href="hyeonsuns123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyeonsuns123@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hyeonsun-jung/?locale=ko-KR" target="_blank"><img src="https://img.shields.io/badge/JasonJung-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-</div>
+# Hyeonsun Jung (Jason) 👋
 
-<h2 align="center"> I am currently looking for great opportunity as a software engineer </h2> 
-<br>
-<p align="center">
-Hi there 👋🙂
-<br>
-My goal is to be a good software engineer
-</p>
-<h4 align="center"> Hobbies: 🎹 🎧 🏋🏻  <br> Languages: 🇰🇷 🇺🇸 🇯🇵</h4>
+**Software Engineer → Security Researcher**  
+Interested in Usable Security, Human-Centered Authentication, and Human-AI Interaction
 
-<!--
-**Jasonarea/Jasonarea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Email](https://img.shields.io/badge/Email-hyeonsuns123@gmail.com-red?style=flat&logo=gmail)](mailto:hyeonsuns123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JasonJung-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hyeonsun-jung)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a software engineer with 6+ years of experience building secure financial systems at Samsung SDS and the Korean Federation of Community Credit Cooperatives (KFCC). Throughout my career, I have been less interested in technology as an end in itself and more interested in the relationship between people and the systems they depend on.
+
+I am currently preparing to pursue a Master's degree in Computer Science, with a research focus on **usable security**, **human-centered authentication**, and **human-AI interaction**. My long-term goal is to earn a PhD and contribute to the design of secure systems that people can not only use, but confidently trust.
+
+---
+
+## Research Interests
+
+- Usable Security and Human-Centered Authentication
+- Human-Computer Interaction for Financial Security Systems
+- Biometric and Multi-Factor Authentication UX
+- Human-AI Interaction and Trustworthy AI Systems
+- Privacy-Preserving Systems
+
+---
+
+## Professional Experience
+
+**Software Engineer** @ Samsung SDS *(May 2024 – Present)*  
+Full-stack security engineer working on mobile/browser OTP systems, LLM-based legacy modernization, and financial platform development.
+
+**Software Engineer** @ Korean Federation of Community Credit Cooperatives *(Nov 2019 – Mar 2024)*  
+Core banking developer responsible for biometric authentication systems, interbank transfer networks, and teller terminal infrastructure.
+
+---
+
+## Selected Projects
+
+| Project | Organization | Key Focus |
+|--------|-------------|-----------|
+| [Palm-Vein Biometric Authentication](#) | KFCC | Usable Security, Biometric UX |
+| [Bulk Interbank Transfer System](#) | KFCC | Security + Usability, Async UX |
+| [LLM-Based Reverse Engineering Agent](#) | Samsung SDS | Human-AI Interaction, Trustworthy AI |
+| [Mobile OTP / MFA System](#) | Samsung SDS | Authentication, Cryptographic Workflows |
+
+---
+
+## Education
+
+**B.E. in Software Engineering** — Gachon University *(Mar 2012 – Aug 2019)*  
+GPA: 3.84/4.5 (Major: 3.94/4.5)  
+Completed core coursework in data structures, algorithms, operating systems, databases, and computer networks.
+
+**Undergraduate Research Assistant** — Gachon University HCI Lab *(Jan 2017 – Mar 2017)*  
+Joint research project with Samsung Electronics (Government-Funded).  
+Feasibility Study on Privacy-Aware Architecture for PPG-Based Wearable Blood Pressure Monitoring.
+
+---
+
+## Skills
+
+**Languages:** Java, C, Python, JavaScript, SQL  
+**Security:** Mobile OTP, MFA, Biometric Authentication, Cryptographic Workflows  
+**Infrastructure:** FEP, Interbank Networks, Core Banking Modules  
+**Engineering:** Spring, Vue.js, Oracle SQL, MSA, TDD, Mockito  
+**AI/ML:** LLM, LangChain, Reverse Engineering Agents  
+
+---
+
+## Creative Work
+
+I have spent the past three years composing and producing music using Logic Pro.  
+I am preparing to release my debut album, which has deepened my interest in the intersection of **music technology and security** — particularly how intelligent creative interfaces can be designed with both usability and privacy in mind.
+
+---
+
+## Languages
+
+🇰🇷 Korean (Native) · 🇺🇸 English (Professional) · 🇯🇵 Japanese (Basic)
+
+---
+
+> *"Security is ultimately effective only when people can adopt it naturally as part of their everyday workflow."*
