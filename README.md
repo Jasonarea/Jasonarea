@@ -27,7 +27,7 @@ I am currently preparing to pursue a Master's degree in Computer Science, with a
 
 ## Career Timeline
 
-![Career Timeline](./timeline.svg)
+<img src="./timeline.svg" alt="Career Timeline"/>
 
 ---
 
@@ -47,6 +47,7 @@ Core banking developer responsible for biometric authentication systems, interba
 |--------|-------------|-----------|
 | [Palm-Vein Biometric Authentication](https://github.com/Jasonarea/palm-vein-biometric-auth) | KFCC | Usable Security, Biometric UX |
 | [Bulk Interbank Transfer System](https://github.com/Jasonarea/bulk-interbank-transfer) | KFCC | Security + Usability, Async UX |
+| [Electronic Banking Transfer Refactoring](https://github.com/Jasonarea/electronic_banking_transfer-refactoring) | KFCC | Service Decoupling, Legacy Modernization |
 | [Monimo Financial Platform](https://github.com/Jasonarea/monimo-financial-platform) | Samsung SDS | Human-AI Interaction, Trustworthy AI |
 | [Mobile OTP / MFA System](#) | Samsung SDS | Authentication, Cryptographic Workflows |
 
@@ -57,10 +58,6 @@ Core banking developer responsible for biometric authentication systems, interba
 **B.E. in Software Engineering** — Gachon University *(Mar 2012 – Aug 2019)*  
 GPA: 3.84/4.5 (Major: 3.94/4.5)  
 Completed core coursework in data structures, algorithms, operating systems, databases, and computer networks.
-
-**Undergraduate Research Assistant** — Gachon University HCI Lab *(Jan 2017 – Mar 2017)*  
-Joint research project with Samsung Electronics (Government-Funded).  
-Feasibility Study on Privacy-Aware Architecture for PPG-Based Wearable Blood Pressure Monitoring.
 
 ---
 
