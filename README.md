@@ -1,5 +1,4 @@
 # Hyeonsun Jung (Jason) 👋
-
 **Software Engineer → Security Researcher**  
 Interested in Usable Security, Human-Centered Authentication, and Human-AI Interaction
 
@@ -23,6 +22,12 @@ I am currently preparing to pursue a Master's degree in Computer Science, with a
 - Biometric and Multi-Factor Authentication UX
 - Human-AI Interaction and Trustworthy AI Systems
 - Privacy-Preserving Systems
+
+---
+
+## Career Timeline
+
+![Career Timeline](./timeline.svg)
 
 ---
 
