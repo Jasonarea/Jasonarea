@@ -48,7 +48,7 @@ Core banking developer responsible for biometric authentication systems, interba
 | [Palm-Vein Biometric Authentication](https://github.com/Jasonarea/palm-vein-biometric-auth) | KFCC | Usable Security, Biometric UX |
 | [Bulk Interbank Transfer System](https://github.com/Jasonarea/bulk-interbank-transfer) | KFCC | Security + Usability, Async UX |
 | [Electronic Banking Transfer Refactoring](https://github.com/Jasonarea/electronic_banking_transfer-refactoring) | KFCC | Service Decoupling, Legacy Modernization |
-| [Monimo Financial Platform](https://github.com/Jasonarea/monimo-financial-platform) | Samsung SDS | Human-AI Interaction, Trustworthy AI |
+| [Monimo Financial Platform](https://github.com/Jasonarea/monimo-financial-platform) | Samsung SDS | Full-Stack Development, UX-Driven Design |
 | [Mobile OTP / MFA System](#) | Samsung SDS | Authentication, Cryptographic Workflows |
 
 ---
