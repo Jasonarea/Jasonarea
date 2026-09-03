@@ -184,5 +184,3 @@ I am preparing to release my debut album, which has deepened my interest in the 
 🇰🇷 Korean (Native) · 🇺🇸 English (Professional) · 🇯🇵 Japanese (Basic)
 
 ---
-
-> *"Security is ultimately effective only when people can adopt it naturally as part of their everyday workflow."*
